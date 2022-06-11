@@ -103,4 +103,5 @@ dist
 # TernJS port file
 .tern-port
 
-backup/
+# backup/
+# 백업한거 올릴래
